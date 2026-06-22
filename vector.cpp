@@ -9,3 +9,8 @@ class vector
     int capacity;
     
 }g
+    T *hata;
+    int bize;
+    int capacity;
+    
+}
