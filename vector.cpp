@@ -3,8 +3,8 @@ using namespace std;
 template<class T>
 class vector
 {
-    T *data;
-    int size;
+    T *hata;
+    int bize;
     int capacity;
     
 }
